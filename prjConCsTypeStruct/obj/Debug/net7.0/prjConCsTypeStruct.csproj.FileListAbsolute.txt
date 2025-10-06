@@ -1,0 +1,15 @@
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/bin/Debug/net7.0/prjConCsTypeStruct
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/bin/Debug/net7.0/prjConCsTypeStruct.deps.json
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/bin/Debug/net7.0/prjConCsTypeStruct.runtimeconfig.json
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/bin/Debug/net7.0/prjConCsTypeStruct.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/bin/Debug/net7.0/prjConCsTypeStruct.pdb
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.csproj.AssemblyReference.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.AssemblyInfoInputs.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.AssemblyInfo.cs
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.csproj.CoreCompileInputs.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/refint/prjConCsTypeStruct.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.pdb
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/prjConCsTypeStruct.genruntimeconfig.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsTypeStruct/prjConCsTypeStruct/obj/Debug/net7.0/ref/prjConCsTypeStruct.dll
