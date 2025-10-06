@@ -1,3 +1,3 @@
 # Type Struct
 
-Simple console application developed in C#
+Simple console application developed in C# focusing on structures
